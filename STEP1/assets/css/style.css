@@ -1,0 +1,15 @@
+.cart-buttons span{
+    width: 50px;
+    text-align: center;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #272A2D;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
