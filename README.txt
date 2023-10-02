@@ -16,7 +16,7 @@ Informazioni fornite dal professore per il progetto ECOMMERCE CON PHP:
     Non tutti gli elementi riportati devono essere presenti nelle pagine web, ma solamente
     quelli indicati nella descrizione della pagina
 
-    #Consegna
+    Consegna
 
     Dovrà essere consegnato un archivio compresso contente 3 cartelle principali:
 
@@ -78,11 +78,9 @@ LOGO LAMPEO:
 
 Connessione db con PHP --> https://www.w3schools.com/php/php_mysql_connect.asp
 
-Immagini --> Api journey
-Data --> Chat Gpt (dati inventati tramite intelligenza artificiale)
+Immagini --> Api journey --> https://apijourney.com/it
 
-
-Repository GITHUB --> https://github.com/Dambrous/lampeo (progetto pubblico)
+Repository GITHUB --> https://github.com/Dambrous/lampeo (progetto pubblico in sviluppo)
 
 
 Setup necessario per la corretta visualizzazione dell'ecommerce:
@@ -92,7 +90,7 @@ Setup necessario per la corretta visualizzazione dell'ecommerce:
 - modificare i parametri globali presenti nel file "inc\config.php" per il corretto funzionamento
 
 
-Nel database ci saranno utenti di 2 tipi:
+Nel database ci saranno utenti(tabella --> res_user) di 2 tipi:
 - utente normali --> senza possibilità di aggiunta prodotti
 - utente amministratore --> con possibilità di aggiunta prodotti
 
