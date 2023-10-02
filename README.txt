@@ -12,10 +12,6 @@ Informazioni fornite dal professore per il progetto ECOMMERCE CON PHP:
     • Pagina di avvenuto acquisto
     • Pagina per visualizzare la cronologia degli ordini
 
-    • N.B.: Tutte le immagini delle slide successive hanno scopo puramente illustrativo.
-    Non tutti gli elementi riportati devono essere presenti nelle pagine web, ma solamente
-    quelli indicati nella descrizione della pagina
-
     Consegna
 
     Dovrà essere consegnato un archivio compresso contente 3 cartelle principali:
