@@ -1,6 +1,4 @@
-
-Istruzioni del docente per realizzare questo progetto:
-    Informazioni fornite dal professore per il progetto ECOMMERCE CON PHP:
+Informazioni fornite dal professore per il progetto ECOMMERCE CON PHP:
         Devono essere prodotte le seguenti pagine:
 
         • Pagina Home
@@ -35,7 +33,7 @@ Istruzioni del docente per realizzare questo progetto:
         a lezione. Per motivi di sicurezza il codice JavaScript verrà eliminato e non
         verrà valutato.
 
-   Struttura Progetto
+Struttura Progetto
 
    front-end/
         assets/
